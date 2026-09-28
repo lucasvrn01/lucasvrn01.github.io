@@ -17,8 +17,9 @@ Après un bac STI2D, j'ai choisi l'option SISR pour travailler sur les infrastru
 
 ## Réalisations
 
-- [Situation A — Remplacement d'un switch d'étage saturé](tp-situation-a.html)
-
+- [Situation A — Remplacement d'un switch d'étage saturé](situation-a.html)
+- [Situation B — Remplacement de l’alimentation d’un poste du bureau d’études](situation-b.html)
+  
 ## Veille
 
 - Le Monde Informatique — l'actualité générale du secteur, une lecture par semaine
